@@ -1,0 +1,2 @@
+* da1efc2 (HEAD -> main, feature-style) enhanced font colors for our favorites and contact us (feature-style)
+* 28509c5 added responsive practical4_finals.html
